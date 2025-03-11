@@ -8,3 +8,7 @@ Lizbeth Peralta Malváez
 ## Contents
 ### Images
 
+### Lists
+- Turn on GitHub Pages
+- Outline my portfolio
+- Introduce myself to the world
